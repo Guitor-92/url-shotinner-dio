@@ -1,0 +1,14 @@
+{
+  "name": "url-shotinner-dio",
+  "version": "1.0.0",
+  "description": "url shortener for dio project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme Vitor",
+  "license": "ISC",
+  "dependencies": {
+    "typescript-eslint": "^0.0.1-alpha.0"
+  }
+}
